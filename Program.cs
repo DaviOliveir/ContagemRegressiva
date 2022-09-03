@@ -1,0 +1,9 @@
+﻿Console.WriteLine("Preparar...");
+Console.WriteLine();
+Console.ReadKey();
+Console.WriteLine("Apontar...");
+Console.WriteLine();
+Console.ReadKey();
+Console.WriteLine("FOGO");
+Console.WriteLine();
+Console.ReadKey();
